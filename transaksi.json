@@ -1,0 +1,68 @@
+[
+    {
+        "username": "paros",
+        "service": "Cuci Expres",
+        "status": "Selesai",
+        "biaya": 60000.0
+    },
+    {
+        "username": "paros",
+        "service": "Cuci Komplit",
+        "status": "Sedang Diproses",
+        "biaya": 68400.0
+    },
+    {
+        "username": "paros",
+        "service": "Cuci Lipat",
+        "status": "Sedang Diproses",
+        "biaya": 12000.0
+    },
+    {
+        "username": "zia",
+        "service": "Cuci Expres",
+        "status": "Sedang Diproses",
+        "biaya": 50000.0
+    },
+    {
+        "username": "zia",
+        "service": "Cuci Strika",
+        "status": "Sedang Diproses",
+        "biaya": 37800.0
+    },
+    {
+        "username": "paros",
+        "service": "Cuci Expres",
+        "status": "Sedang Diproses",
+        "biaya": 20000.0
+    },
+    {
+        "username": "paros",
+        "service": "Cuci Expres",
+        "status": "Sedang Diproses",
+        "biaya": 30000.0
+    },
+    {
+        "username": "zia",
+        "service": "Cuci piring",
+        "status": "Sedang Diproses",
+        "biaya": 100000.0
+    },
+    {
+        "username": "paros",
+        "service": "Cuci Lipat",
+        "status": "Sedang Diproses",
+        "biaya": 12000.0
+    },
+    {
+        "username": "paros",
+        "service": "Cuci Lipat",
+        "status": "Sedang Diproses",
+        "biaya": 6000.0
+    },
+    {
+        "username": "paros",
+        "service": "Cuci Lipat",
+        "status": "Sedang Diproses",
+        "biaya": 12000.0
+    }
+]

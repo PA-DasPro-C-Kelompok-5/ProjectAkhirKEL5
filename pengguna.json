@@ -1,0 +1,16 @@
+{
+    "admin": {
+        "password": "admin123",
+        "role": "admin"
+    },
+    "paros": {
+        "password": "paros123",
+        "role": "user",
+        "saldo": 39600.0
+    },
+    "zia": {
+        "password": "zia123",
+        "role": "user",
+        "saldo": 2201.0
+    }
+}

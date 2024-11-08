@@ -1,0 +1,38 @@
+{
+    "Cuci Helm": {
+        "harga": "25000",
+        "estimasi_waktu": "1 hari"
+    },
+    "Cuci Sepatu": {
+        "harga": "40000",
+        "estimasi_waktu": "3 hari"
+    },
+    "Cuci Lipat": {
+        "harga": "6000",
+        "estimasi_waktu": "3 hari"
+    },
+    "Cuci Strika": {
+        "harga": "7000",
+        "estimasi_waktu": "3 hari"
+    },
+    "Cuci Komplit": {
+        "harga": "9000",
+        "estimasi_waktu": "3 hari"
+    },
+    "Cuci Kapal": {
+        "harga": "600000",
+        "estimasi_waktu": "7 hari"
+    },
+    "Cuci Motor": {
+        "harga": "15000",
+        "estimasi_waktu": "1 hari"
+    },
+    "Cuci piring": {
+        "harga": "5000",
+        "estimasi_waktu": "1 hari"
+    },
+    "Cuci Expres": {
+        "harga": "10000",
+        "estimasi_waktu": "1 hari"
+    }
+}
