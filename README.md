@@ -8,9 +8,9 @@ Nama:
 ![code](https://github.com/user-attachments/assets/af6ea5ed-33c4-4366-89b4-f80cd2cbed52)
 
 # FLOWCHART
-![Screenshot 2024-11-09 220601](https://github.com/user-attachments/assets/c2f2e806-1961-42f8-b0be-4b747520ee7c)
-![Screenshot 2024-11-09 220638](https://github.com/user-attachments/assets/386740a2-e8c6-47d4-ae46-d4c9738cbb32)
-![Screenshot 2024-11-09 220657](https://github.com/user-attachments/assets/374070e4-1b67-435f-8df5-2098a39839b8)
+![Flowchart Laundry Kel 5-index page](https://github.com/user-attachments/assets/6b123907-6297-44a8-abaf-3a1a7a9d4d3e)
+![Flowchart Laundry Kel 5-admin page](https://github.com/user-attachments/assets/970503ad-1020-4fa0-ba05-6e3a05f712a8)
+![Flowchart Laundry Kel 5-user page](https://github.com/user-attachments/assets/14e7364f-004b-4aeb-a7e8-d28045e2695b)
 
 # GAMBAR OUTPUT CODINGAN
 ![Screenshot 2024-11-09 221451](https://github.com/user-attachments/assets/0e5c68eb-10af-44a2-820b-82a06367b8e9)
@@ -34,3 +34,26 @@ Nama:
 ![WhatsApp Image 2024-11-09 at 20 56 14_bfb9db22](https://github.com/user-attachments/assets/48a37498-4e43-4462-80af-4d33b7be0dac)
 ![WhatsApp Image 2024-11-09 at 21 46 34_0f3cc381](https://github.com/user-attachments/assets/fb134a1a-7cf0-4d09-b6ac-c9a47528cfba)
 ![Screenshot 2024-11-09 224420](https://github.com/user-attachments/assets/4d7decd3-14f1-47da-b0bb-1538f7c5b62a)
+
+# PENJELASAN OUTPUT
+1. MENU UTAMA: Di menu tersebut tersedia Login pengguna, Login Admin, Register pengguna, dan Keluar
+   (Jika sudah memiliki akun Admin/User bisa login sesuai Rolenya masing-masing, tetapi jika belum memiliki akun silahkan bisa registrasi akun terlebih dahulu seperti (Username/Password), jika tidak menginginkan keduanya bisa keluar dari program tersebut/Logout dari Role.)
+
+2. ADMIN: Ada Fitur-Fitur sebagai berikut:
+  a. Lihat semua transaksi: untuk melihat semua transaksi yang ada.
+  b. Input layanan baru: untuk menginput/menambah layanan baru.
+  c. Lihat Daftar layanan: untuk melihat daftar layanan laundry.
+  d. Edit layanan: untuk mengedit layanan.
+  e. Hapus layanan: untuk menghapus layanan laundry yang dinginkan.
+  f. Ubah status Transaksi: Untuk mengubah status laundry (Sedang diproses/Selesai/Batal).
+  g. Logout: Kembali ke Menu Utama.
+
+3. USER:
+   a. Lihat Layanan: untuk melihat daftar layanan yang tersedia.
+   b. Pesan layanan: untuk memesan layanan yang di inginkan.
+   c. Top Up Saldo: untuk mengisi/Top Up Saldo.
+   d. Lihat Saldo: untuk melihat/mengecek apakah Saldo Kurang/Masih Mencukupi untuk melakukan pembayaran.
+   e. Lihat Status Transaksi: untuk melihat apakah status transaksi (Sedang diproses/Selesai/Batal).
+   f. Layanan Berdasarkan Harga: untuk melihat layanan berdasarkan Harga tertentu (Sorting harga).
+   g. Logout: Kembali ke Menu Utama.
+   
