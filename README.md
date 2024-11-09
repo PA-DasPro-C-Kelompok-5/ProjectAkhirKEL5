@@ -19,3 +19,4 @@ Nama:
 ![WhatsApp Image 2024-11-09 at 21 02 04_f67cc7b0](https://github.com/user-attachments/assets/a82e3b2d-e3cc-4aad-8c38-94cc0570a6f8)
 ![WhatsApp Image 2024-11-09 at 21 02 03_fc8e7031](https://github.com/user-attachments/assets/4ed96317-3260-4fad-883b-79c3bc5d8cec)
 ![WhatsApp Image 2024-11-09 at 21 02 04_20c8b2b6](https://github.com/user-attachments/assets/0faba118-178c-43bb-aa7f-afd37414f9c3)
+![WhatsApp Image 2024-11-09 at 21 02 02_d7dfe0e9](https://github.com/user-attachments/assets/63a0bf6a-8b07-4adb-898e-d850381bdce0)
