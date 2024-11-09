@@ -14,8 +14,8 @@ Nama:
 
 # GAMBAR OUTPUT CODINGAN
 ![Screenshot 2024-11-09 221451](https://github.com/user-attachments/assets/0e5c68eb-10af-44a2-820b-82a06367b8e9)
-![WhatsApp Image 2024-11-09 at 21 02 02_778f4bed](https://github.com/user-attachments/assets/95fa6e31-328a-49f2-9709-2d1fc8bf2264)
-![WhatsApp Image 2024-11-09 at 21 02 02_778f4bed](https://github.com/user-attachments/assets/a0435f70-bd1b-4bc8-b1f6-9d26ed9d9b83)
-![WhatsApp Image 2024-11-09 at 21 02 04_f67cc7b0](https://github.com/user-attachments/assets/5362d6f0-6770-45db-8e13-111ddbba728d)
-![WhatsApp Image 2024-11-09 at 21 02 03_fc8e7031](https://github.com/user-attachments/assets/73bbbf51-67a5-43c1-839e-a0c3ef325eb4)
-![WhatsApp Image 2024-11-09 at 21 02 04_20c8b2b6](https://github.com/user-attachments/assets/c1fb743c-023c-42e6-8d57-cdc53d01626b)
+![WhatsApp Image 2024-11-09 at 21 02 02_58fec887](https://github.com/user-attachments/assets/b0d4ed65-79a4-4afd-8df2-bdcb23c75eb5)
+![WhatsApp Image 2024-11-09 at 21 02 02_778f4bed](https://github.com/user-attachments/assets/93cf6cd9-a8f9-40a3-8ad0-75ff896a2af7)
+![WhatsApp Image 2024-11-09 at 21 02 04_f67cc7b0](https://github.com/user-attachments/assets/a82e3b2d-e3cc-4aad-8c38-94cc0570a6f8)
+![WhatsApp Image 2024-11-09 at 21 02 03_fc8e7031](https://github.com/user-attachments/assets/4ed96317-3260-4fad-883b-79c3bc5d8cec)
+![WhatsApp Image 2024-11-09 at 21 02 04_20c8b2b6](https://github.com/user-attachments/assets/0faba118-178c-43bb-aa7f-afd37414f9c3)
