@@ -32,6 +32,5 @@ Nama:
 ![WhatsApp Image 2024-11-09 at 20 56 14_7f628dc9](https://github.com/user-attachments/assets/8b183ff4-8805-400b-a166-bf624e2caf60)
 ![WhatsApp Image 2024-11-09 at 20 56 14_900da27a](https://github.com/user-attachments/assets/6ba25029-666e-4656-b2ed-d15da0dd3ffd)
 ![WhatsApp Image 2024-11-09 at 20 56 14_bfb9db22](https://github.com/user-attachments/assets/48a37498-4e43-4462-80af-4d33b7be0dac)
-
-
-
+![WhatsApp Image 2024-11-09 at 21 46 34_0f3cc381](https://github.com/user-attachments/assets/fb134a1a-7cf0-4d09-b6ac-c9a47528cfba)
+![Screenshot 2024-11-09 224420](https://github.com/user-attachments/assets/4d7decd3-14f1-47da-b0bb-1538f7c5b62a)
