@@ -4,3 +4,4 @@ Nama:
 2. Nabil Daffa Athalasyah (2409116090)
 3. Marza Hanaya Melodya Goga (2409116103)
 
+# GAMBAR FULL CODINGAN
